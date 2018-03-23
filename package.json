@@ -1,0 +1,20 @@
+{
+  "name": "handlebars-cache",
+  "scripts": {
+    "start": "gulp"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/janrembold/handlebars-cache.git",
+  "author": "Jan Rembold <janrembold@googlemail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-hb": "7.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-watch": "^5.0.0",
+    "pump": "^3.0.0",
+    "run-sequence": "^2.2.1"
+  }
+}
