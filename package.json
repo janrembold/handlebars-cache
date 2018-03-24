@@ -17,6 +17,7 @@
     "gulp-rename": "^1.2.2",
     "gulp-watch": "^5.0.0",
     "handlebars": "^4.0.11",
+    "handlebars-wax": "^6.1.0",
     "path": "^0.12.7",
     "pump": "^3.0.0",
     "run-sequence": "^2.2.1"
